@@ -1,0 +1,3 @@
+C:/Users/Emil Hallingstad/CLionProjects/kryptering/cmake-build-debug/CMakeFiles/kryptering.dir
+C:/Users/Emil Hallingstad/CLionProjects/kryptering/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emil Hallingstad/CLionProjects/kryptering/cmake-build-debug/CMakeFiles/rebuild_cache.dir

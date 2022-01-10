@@ -1,0 +1,3 @@
+C:/Users/Emil Hallingstad/CLionProjects/bysykkel/cmake-build-debug/CMakeFiles/bysykkel.dir
+C:/Users/Emil Hallingstad/CLionProjects/bysykkel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emil Hallingstad/CLionProjects/bysykkel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

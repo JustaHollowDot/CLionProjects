@@ -5,46 +5,42 @@
 using namespace std;
 
 int main() {
-    long long int n, k, K0, K1, rest = 0, diff = 0;
+    long long int stemmer, kandidater, mineStemmer, rest = 0, diff = 0;
 
-    cin >> n >> k >> K1;
+    cin >> stemmer >> kandidater >> mineStemmer;
 
-    K0 = K1;
+    const int constMineStemmer = mineStemmer;
 
-    vector<int> deltakere(k - 1, 0);
+    vector<int> deltakereStemmer(kandidater - 1, 0);
 
-    for (int i = 0; i < k - 1; i++) {
-        cin >> deltakere[i];
+    for (int i = 0; i < kandidater - 1; i++) {
+        cin >> deltakereStemmer[i];
     }
 
-    sort(deltakere.begin(), deltakere.end());
+    sort(deltakereStemmer.begin(), deltakereStemmer.end());
 
-    for (int a: deltakere) {
-        cout << a << endl;
-    }
-
-    if (K1 >=deltakere.back()) {
+    if (mineStemmer >= deltakereStemmer.back()) {
         cout << 0;
         return 0;
     }
 
-    for (int i = 2; K1 <= deltakere.back(); i++) {
-        cout << "størrelse: "<< deltakere.size() << " K1: "  << K1 << endl;
-        diff = (deltakere.back() - K1 + rest) / i;
-        cout << deltakere.back() << endl;
-        rest = (deltakere.back() - K1) % i;
-        cout << "rest" << rest << endl;
-        K1 += diff;
+    for (int i = 2; mineStemmer <= deltakereStemmer.back(); i++) {
+        // cout << "størrelse: " << deltakereStemmer.size() << " mineStemmer: " << mineStemmer << endl;
+        diff = (deltakereStemmer.back() - mineStemmer + rest) / i;
+        // cout << deltakereStemmer.back() << endl;
+        rest = (deltakereStemmer.back() - mineStemmer) % i;
+        // cout << "rest" << rest << endl;
+        mineStemmer += diff;
 
-        deltakere.pop_back();
-        if (deltakere.empty())
+        deltakereStemmer.pop_back();
+        if (deltakereStemmer.empty())
             break;
     }
 
-    if (rest > 0)
-        K1++;
+    if (constMineStemmer > 0)
+        mineStemmer++;
 
-    cout << K1 - K0 << endl;
+    cout << stjalet << endl;
 
     return 0;
 }
