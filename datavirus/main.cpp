@@ -1,6 +1,14 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int computers, connections;
+
+
+
+
+
+    cout << computers * (computers - 1) / 2;
     return 0;
 }
