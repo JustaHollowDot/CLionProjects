@@ -1,11 +1,16 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
-struct person {
-    int timeSick, immune;
-    bool isImmune;
+struct specificMeet {
+    int person1, person2;
+    int day;
 };
+
+bool customer_sorter(specificMeet const& lhs, specificMeet const& rhs) {
+    return lhs.day < rhs.day;
+}
 
 int main() {
     int antInhabitants, meets, incubation, sickTime, maks = 0;
@@ -13,94 +18,82 @@ int main() {
 
     cin >> antInhabitants >> meets >> incubation >> sickTime;
 
-    vector<person> people (antInhabitants, {-1, -1, false});
+    vector<int> people (antInhabitants, -1);
+    people[0] = 0;
 
-    people[0].timeSick = incubation;
-    people[0].immune = incubation + sickTime;
+    vector<specificMeet> meetings;
 
     for (int i = 0; i < meets; ++i) {
         cin >> person1 >> person2 >> day;
-
-        if (people[person1].immune < day)
-            people[person1].isImmune = true;
-            //break?
-        else if (people[person2].immune < day)
-            people[person2].isImmune = true;
-            //break?
-
-        if (!people[person1].isImmune && !people[person2].isImmune) {
-            if (people[person1].timeSick <= day && day < people[person1].immune && people[person2].timeSick == -1) {
-                people[person2].timeSick = day + incubation;
-                people[person2].immune = incubation + sickTime;
-            }
-
-            if (people[person2].timeSick <= day && day < people[person2].immune && people[person1].timeSick == -1) {
-                people[person1].timeSick = day + incubation;
-                people[person1].immune = incubation + sickTime;
-            }
-        }
-    }
-    for(auto &x : people)
-    {
-        cout<<x.timeSick<<":"<<x.immune<<endl;
+        specificMeet temp = {person1, person2, day};
+        meetings.push_back(temp);
     }
 
-    int counter = 0;
-    for (int i = 0; i < day; ++i) {
-        counter = 0;
+    sort(meetings.begin(), meetings.end(), &customer_sorter);
 
-        for (int j = 0; j < antInhabitants; ++j) {
-            if (people[j].timeSick <= i && i < people[j].immune) {
-                    ++counter;
-                    cout << "counter: " << counter << endl;
-            }
-            if (counter > maks)
-                maks = counter;
-        }
+
+    if (meetings.back().day < incubation) {
+        cout << 1;
+        return 0;
     }
 
 
     /*
-    vector< pair<int,int> > persons (antInhabitants, make_pair(-1,-1));
-    persons[0].first = 0 + incubation;
-    persons[0].second = 0 + incubation + sickTime;
-
-    for (int i = 0; i < meets; ++i) {
-        cin >> person1 >> person2 >> day;
-
-        if (persons[person1].first <= day && day < persons[person1].second && persons[person1].first != -1 && persons[person2].first == -1) {
-            if (persons[person2].first == -1) {
-                persons[person2].first = day + incubation;
-                persons[person2].second = day + incubation + sickTime;
-            }
-        } else if (persons[person2].first <= day && day < persons[person2].second && persons[person2].first != -1 && persons[person1].first == -1) {
-            if (persons[person1].first == -1) {
-                persons[person1].first = day + incubation;
-                persons[person1].second = day + incubation + sickTime;
-            }
-        }
-
+    for (int x : people) {
+        cout << x << endl;
     }
-
-    for(auto &x : persons)
+    for(auto &x : meetings)
     {
-        cout<<x.first<<":"<<x.second<<std::endl;
-    }
-
-    for (int i = 0; i < day; ++i) {
-        int counter = 0;
-        for (int j = 0; j < antInhabitants; ++j) {
-            if (persons[j].first <= i && i < persons[j].second && persons[j].first != -1) {
-                ++counter;
-                cout << counter << " person: " << j << " ";
-            }
-        }
-        cout << endl;
-
-        if (counter > maks)
-            maks = counter;
+        cout<<x.person1<<":"<< x.person2<<":"<<x.day<< endl;
     }*/
 
-    cout << maks;
+
+    for (int i = 0; i < meets; ++i) {
+        if (meetings[i].day < incubation - 1)
+            continue;
+
+        if (people[meetings[i].person1] == -1 && people[meetings[i].person2] != -1) {
+            if (people[meetings[i].person2] + incubation > meetings[i].day)
+                continue;
+            else if (people[meetings[i].person2] + incubation + sickTime <= meetings[i].day)
+                continue;
+            people[meetings[i].person1] = meetings[i].day;
+        }
+        else if (people[meetings[i].person2] == -1 && people[meetings[i].person1] != -1) {
+            if (people[meetings[i].person1] + incubation > meetings[i].day)
+                continue;
+            else if (people[meetings[i].person1] + incubation + sickTime <= meetings[i].day)
+                continue;
+            people[meetings[i].person2] = meetings[i].day;
+        }
+    }
+
+/*
+
+    for (int x : people) {
+        cout << x << endl;
+    }*/
+
+    vector<int> max (meetings.back().day + incubation + sickTime + 10, 0);
+    for (int x : people) {
+        if (x != -1) {
+            for (int i = x + incubation; i < x + incubation + sickTime; ++i) {
+                max[i]++;
+            }
+        }
+    }
+
+    /*
+    cout << endl;
+
+    for (int x : max) {
+        cout << x << endl;
+    } */
+
+    // cout << endl;
+
+    int maksverdi = *max_element(max.begin(), max.end());
+
+    cout << maksverdi;
     return 0;
 }

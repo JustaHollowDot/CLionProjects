@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e9e3e52-7d91-4557-b7b7-354aac00514b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../datavirus/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datavirus/datavirus_input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering_rust/.idea/Kryptering_Rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering_rust/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering_rust/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering_rust/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering_rust/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering_rust/src/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode_problems/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leet_code_problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/container_with_most_water.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longest_common_prefix.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome_number.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem_3_sum.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse_integral.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two_sum.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zigzag_conversion.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/bin-leet_code_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/bin-leet_code_problems.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/dep-bin-leet_code_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/output-bin-leet_code_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/leet_code_problems.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/leet_code_problems.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/leet_code_problems.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/leet_code_problems.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/leet_code_problems.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/leet_code_problems.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/bysykkel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/cache-v2-98a8cc6c12d551e94874.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d63124112d938edc8d8e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d064ddd3d4bc85ae2749.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-10T13-21-55-0809.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/target-bysykkel-Debug-8d6e3014fc4425102073.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-2120af67d5621e174487.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/bysykkel.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/bysykkel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-10T13-27-17-0950.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6e067bcf2a1ffe9aa544.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8c66c237bc4f99f6cd36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-10T07-12-06-0557.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/CMakeFiles/virussmitte.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/CMakeFiles/virussmitte.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/virussmitte.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/virussmitte.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/input" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="69awejfy" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ACyiFI4yxYFKiC5MUzeSqPbfCr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package leet_code_problems --bin leet_code_problems" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e9e3e52-7d91-4557-b7b7-354aac00514b" name="Changes" comment="" />
+      <created>1654527986647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654527986647</updated>
+      <workItem from="1654527988096" duration="12772000" />
+      <workItem from="1655059029627" duration="7392000" />
+      <workItem from="1655122841061" duration="663000" />
+      <workItem from="1655142092578" duration="7854000" />
+      <workItem from="1655466297392" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

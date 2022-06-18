@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4693594-54fb-4c64-a15c-0b4106676955" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../datavirus/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datavirus/datavirus_input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kryptering/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Kryptering_Rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetCode_problems/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/.idea/leet_code_problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/src/Two_Sum.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/bin-leet_code_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/bin-leet_code_problems.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/dep-bin-leet_code_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/.fingerprint/leet_code_problems-71e45903bcfafe2e/output-bin-leet_code_problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/deps/leet_code_problems.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/deps/leet_code_problems.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/deps/leet_code_problems.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/101xv8nd17z3lvgc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/17leq9o8sprzqjv2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1ab7oy1suku57s7a.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1ddqr080fz5tk9iw.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1eylqykdy1pm2wdb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1orv7iuxcfwwz759.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1p98wh7p9w51lb3h.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1r3471lbxtmgyznt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1xhow9pzs3ggg9eh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/1yrwz4c3nrobgdpm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/260o2u324u3g1ds0.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/27bzysmfcgr8hpoq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/28mgsy4l6csag1ou.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/2991gkq12hmmccbz.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/2b71b0hizhzzk760.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/2dbaniz6uxidwep2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/2jcq1caqmifkadbq.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/2tc8zl18ke49396g.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/2wg1vwk63wdw5r54.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/2wn9tcmap6pe7r1a.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/351ypuq3egia1l6u.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/3612s1rpx3nsbpzh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/391hdo83c3gz6vrw.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/3ml3a8pmgw1j6obn.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/3q9fvzcf9u0mpu1y.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/3sxy6y8sl9x9wuvs.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/3v0vidt35gy0w1jr.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/3xlqikcoa1t4xktm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/3zehn02kb93ofgpm.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/408kwhuobgdd7qbv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/44alxvkmc3gc65if.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/45x65ufghd3hfcbv.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/4a8kai2m4ktdm2lf.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/4aabir6i31remnp4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/4dddjm0zqeiryob2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/4hkq9qwwk5l38xxt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/4jkq7x6vhn35ot95.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/4obbdugu3m395m2x.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/4tg0evy366586zse.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/511b1t3v7zgc5l7m.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/56vzr2vpa2k4vodc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/57id2uwc7j7d7skl.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/58h0y1ity67anfeg.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/58zoi5fet0byn6nl.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/5eb8an2ewwbegbpx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/5f9s3g2z8182ku9l.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/f808th8dacahv3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/mu5j5yjbgmi1xr8.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/r09396y424sgrq3.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/s5sokzqwn9ze7bk.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/uz6772ncf9nvi3s.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/xe0pji6dugne8mu.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh-3akeqfl8magm7/ylzetlpqbr3ps6v.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/incremental/leet_code_problems-3u061uez0adoc/s-gahcsr6mza-zp7clh.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/leet_code_problems.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/leet_code_problems.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leet_code_problems/target/debug/leet_code_problems.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/bysykkel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/cache-v2-98a8cc6c12d551e94874.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d63124112d938edc8d8e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d064ddd3d4bc85ae2749.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-10T13-21-55-0809.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/target-bysykkel-Debug-8d6e3014fc4425102073.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-2120af67d5621e174487.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/bysykkel.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/bysykkel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bysykkel/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-10T13-27-17-0950.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datavirus/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../datavirus/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6e067bcf2a1ffe9aa544.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-8c66c237bc4f99f6cd36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-10T07-12-06-0557.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kryptering/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../kryptering/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/CMakeFiles/virussmitte.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/CMakeFiles/virussmitte.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/virussmitte.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/cmake-build-debug/virussmitte.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/input" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virussmitte/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../virussmitte/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="t6tn14cu" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ACpGsSDMOuLiPRV3uiB3jA5z1O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run kryptering_rust" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package kryptering_rust --bin kryptering_rust" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="true" />
+      <option name="redirectInputPath" value="$PROJECT_DIR$/src/input" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run kryptering_rust" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4693594-54fb-4c64-a15c-0b4106676955" name="Changes" comment="" />
+      <created>1654523328694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654523328694</updated>
+      <workItem from="1654523329952" duration="5319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
