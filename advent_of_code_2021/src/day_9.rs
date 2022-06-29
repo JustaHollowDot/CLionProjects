@@ -1,14 +1,6 @@
 use std::fs::read_to_string;
 use crate::Solution;
 
-// struct PointWithAdjacentValues {
-//     number: i32,
-//
-//     top: i32,
-//     bot: i32,
-//     left: i32,
-//     right: i32
-// }
 
 impl Solution {
     pub fn low_points () {
