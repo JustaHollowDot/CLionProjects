@@ -1,3 +1,4 @@
+use std::ffi::c_void;
 use itertools::Itertools;
 use crate::{create_vec_vec_uint, get_input, Solution};
 
@@ -30,6 +31,9 @@ impl Solution {
 
         let mut adjacency_map: Vec<Vec<usize>> = vec![vec![]; nodes.len()];
 
+        let mut visited_array = vec![];
+        let is_capitalized = vec![false; nodes.len()];
+
         edges.sort();
 
         for edge in &edges {
@@ -45,34 +49,33 @@ impl Solution {
 
 
 
-        let sum = Solution::traverse_map(0, &adjacency_map, &mut vec![(false, false); nodes.len()], &nodes);
+        let sum = Solution::traverse_map(0, &adjacency_map, &nodes, &mut visited_array, &is_capitalized);
 
         println!("{}", sum);
     }
 
-    fn traverse_map (current: usize, adjacency_map: &Vec<Vec<usize>>, visited_array: &mut Vec<(bool, bool)>, nodes: &Vec<&str>) -> i32 {
-        for (i, node) in nodes.iter().enumerate() {
-            if node.chars().any(|x| x.is_uppercase()) {
-                visited_array[i].0 = true;
-            }
-        }
+    fn traverse_map (current: usize, adjacency_map: &Vec<Vec<usize>>, nodes: &Vec<&str>, visited_array: &mut Vec<usize>, is_capitalized: &Vec<bool>) -> i32 {
+        println!("{}", nodes[current]);
 
-        if visited_array[current].0 == false && visited_array[current].1 == true {
+        if is_capitalized[current] == false && visited_array.contains(&current) {
             return 0;
         }
 
-        println!("{}", nodes[current]);
-
         if nodes[current] == "end" {
+            println!("{:?}", visited_array);
+
+            let visited_array : Vec<&usize> = visited_array.iter().filter(|_| false).collect();
+
+            println!("all false: {:?}", visited_array);
             return 1;
         }
 
 
-        visited_array[current].1 = true;
+        visited_array.push(current);
 
         let mut sum = 0;
         for adjacency in &adjacency_map[current] {
-            sum += Solution::traverse_map(*adjacency, adjacency_map, visited_array, nodes)
+            sum += Solution::traverse_map(*adjacency, adjacency_map, nodes, visited_array, is_capitalized)
         }
 
 
