@@ -7,7 +7,7 @@ impl Solution {
 
         println!("{}", contents);
 
-        let contents : Vec<&str> = contents.split(",").collect();
+        let contents : Vec<&str> = contents.split(", ").collect();
 
         println!("{:?}", contents);
 
@@ -19,15 +19,13 @@ impl Solution {
         }
 
         let mut vector = vec![];
-        for i in 0..crabs_position.len() {
+        for i in *crabs_position.iter().min().unwrap()..=*crabs_position.iter().max().unwrap() {
 
             let mut sum = 0;
 
             for position in &crabs_position {
-                sum += (i as i32 - position).abs()
+                sum += (i as i32 - position).abs();
             }
-
-            println!("{}", sum);
 
             vector.push(sum);
         }
