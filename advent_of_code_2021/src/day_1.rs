@@ -22,7 +22,7 @@ impl Solution {
         }
 
 
-        println!("{counter}");
+        println!("svar: {counter}");
         return 0;
 
     }
